@@ -30,7 +30,7 @@ Project to get access to the Hackathon organised by the IT-Academy and Decathlon
 
 Project was submitted not completed. No time to transform the test data set as the trained dataframe used to train the model
 Files generated in the repository:
-- [Jupyter Noebook](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/main.ipynb)
+- [Jupyter Noebook](https://github.com/MarkusHumetus/Hackathon_Decathlon_ITAcademy/blob/main/main.ipynb)
 
 - [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/requirements.txt)
 
