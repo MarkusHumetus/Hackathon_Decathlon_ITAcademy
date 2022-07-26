@@ -43,6 +43,7 @@ Files generated in the repository:
 3. Save best model with tunned hyperparameters
 4. Transform test data set to be able to apply the method and get predictions.csv
 
+Best results with testdataframe and cross validation the f1 obtained for best method was 
 
 ## Contact
 
