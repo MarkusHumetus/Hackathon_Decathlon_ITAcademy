@@ -26,13 +26,12 @@ Project to get access to the Hackathon organised by the IT-Academy and Decathlon
 
 ## Project Status
 
-[Finished]
+[Submitted not completted]
 
-Project was completed and submitted for competition in 22nd of July 2022.
+Project was submitted not completed. No time to transform the test data set as the trained dataframe used to train the model
 Files generated in the repository:
 - [Jupyter Noebook](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/main.ipynb)
 
-- [predictions.csv](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/predictions.csv)
 - [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/requirements.txt)
 
 ## Contact
