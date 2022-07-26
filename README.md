@@ -54,6 +54,6 @@ Thanks to the following organisations for the set up of such event which give th
 
 ![Decathlon](https://www.montluconvolley.com/wp-content/uploads/2015/07/logo_decathlon-1.png)
 
-![ITA_Academy](https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1658314293/logo.png)
+![IT_Academy](https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1658314293/logo.png)
 
 ![Nuwe](https://elreferente.es/wp-content/uploads/2021/12/LOGO_LETTERS_MONO-3.png)
