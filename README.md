@@ -26,15 +26,29 @@ Project to get access to the Hackathon organised by the IT-Academy and Decathlon
 
 ## Project Status
 
-[Submitted not completted]
+[Submitted not completted!!]
 
 Project was submitted not completed. No time to transform the test data set as the trained dataframe used to train the model
+
 Files generated in the repository:
 - [Jupyter Noebook](https://github.com/MarkusHumetus/Hackathon_Decathlon_ITAcademy/blob/main/main.ipynb)
 
-- [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/requirements.txt)
+- [requirements.txt](https://github.com/MarkusHumetus/Hackathon_Decathlon_ITAcademy/blob/main/requirements.txt)
+
+
+## Next Steps
+
+1. Chose best model
+2. Hyperparameter tunning
+3. Save best model with tunned hyperparameters
+4. Transform test data set to be able to apply the method and get predictions.csv
+
 
 ## Contact
+
+Núria Orgaz
+Luis Pardina
+Marc Humet
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to Marc.Humet.DataScience@gmail.com or by 
  [![LinkedIn][linkedin-shield]][linkedin-url]
